@@ -8,5 +8,6 @@ Groupmates are:
 Steps we followed to run this:
 - Composer is already installed in the folder
 - XAMPP needs to have Apache server and mySQL running
-- Just run php artisan migrate
-- Then run php artisan serve
+- Run "composer install"
+- Then run "php artisan migrate"
+- Then run "php artisan serve"
